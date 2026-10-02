@@ -1,0 +1,6 @@
+{
+  "name": "RMDHost - Cloud VPS, Windows VPS & Dedicated Servers",
+  "description": "High-performance NVMe Cloud VPS, Windows RDP VPS, and Bare Metal Dedicated Servers with low-latency global datacenters, DDoS protection, and instant provisioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
